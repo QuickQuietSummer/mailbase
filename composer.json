@@ -1,11 +1,17 @@
 {
-    "name": "tkeer/mailbase",
+    "name": "qqs/mailbase",
     "description": "Catch laravel emails for local development",
     "keywords": ["laravel", "local", "development", "mail"],
     "authors": [
         {
             "name": "taukeer",
-            "email": "taukeer.liaqat@gmail.com"
+            "email": "taukeer.liaqat@gmail.com",
+            "role": "Author"
+        },
+        {
+            "name": "Ruslan",
+            "email": "quickquietsummer@gmail.com",
+            "role": "Improver"
         }
     ],
     "autoload": {
@@ -15,7 +21,7 @@
     },
     "license": "MIT",
     "require": {
-        "laravel/framework": "^7.0|^8.0"
+        "laravel/framework": "^7.0|^8.0|^9.0"
     },
     "extra": {
         "laravel": {
